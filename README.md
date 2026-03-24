@@ -50,3 +50,5 @@ Môi trường: Jupyter Notebook, VS Code.
 
 📊 Kết quả Demo
 ![Tỷ lệ giữ chân khách hàng](Image/cohort.jpg)
+
+Link google drive: https://drive.google.com/drive/folders/1lS9OUtT7o3V6PnVC_VnRUmP-cEjVQLTj?usp=sharing
